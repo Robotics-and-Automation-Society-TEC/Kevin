@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "Ztrake1009",
+      "name": "Gustavo Varela",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139945063?s=400&u=74787cb33a4783373f82995dfb562145084716b1&v=4",
+      "profile": "https://github.com/Ztrake1009",
+      "contributions": [
+        "projectManagement"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "KEVIN",
+  "projectOwner": "Robotics-and-Automation-Society-TEC"
+}
