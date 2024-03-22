@@ -1,0 +1,47 @@
+clc
+clear
+
+H0=eye(4);
+
+figure(1)
+clf
+hold on
+view(3)
+axis equal
+axis([-15 15 -25 3 -5 5]);
+
+[origen0]=Sistema3D(H0,1,'x_0','y_0','z_0',16);
+%% Cadera
+L=13.7/2;
+H1=trans(L,0,0);
+H2=trans(-L,0,0);
+[origen1]=Sistema3D(H1,1,'x_1','y_1','z_1',16);
+[origen2]=Sistema3D(H2,1,'x_2','y_2','z_2',16);
+
+eslabon(origen0,origen1,'r',2)
+eslabon(origen0,origen2,'r',2)
+%% Rodilla
+
+M=13;
+H3=trans(-L,-M,0);
+H4=trans(L,-M,0);
+[origen3]=Sistema3D(H3,1,'x_3','y_3','z_3',16);
+[origen4]=Sistema3D(H4,1,'x_4','y_4','z_4',16);
+
+eslabon(origen2,origen3,'b',2)
+eslabon(origen1,origen4,'b',2)
+
+%% Tobillo
+
+T=10;
+H5=trans(-L,-M-T,0);
+H6=trans(L,-M-T,0);
+[origen5]=Sistema3D(H5,1,'x_5','y_5','z_5',16);
+[origen6]=Sistema3D(H6,1,'x_6','y_6','z_6',16);
+
+eslabon(origen3,origen5,'k',2)
+eslabon(origen4,origen6,'k',2)
+
+grid on
+axis equal
+
