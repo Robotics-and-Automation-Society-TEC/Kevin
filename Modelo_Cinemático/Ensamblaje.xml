@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="05/24/24||10:58:55" using="Simscape Multibody Link Version 7.0" from="SolidWorks 30.2.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="Ensamblaje" uid="Ensamblaje" version="196">
+<AssemblyFile name="Ensamblaje.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="Cadera-1" uid="Cadera-1" grounded="true" entityUid="Cadera*:*Predeterminado">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Case_Servo-1" uid="Case_Servo-1" entityUid="Case_Servo*:*Predeterminado">
+<Transform>
+<Rotation>-1.0000000000000002 0 1.0368373888867629e-16 1.0368373888867626e-16 0 1 0 1.0000000000000002 0</Rotation>
+<Translation>0.00024999999999995859 -0.0089999999999999959 0.021499999999999991</Translation>
+</Transform>
+</Instance>
+<Instance name="Case_Servo-3" uid="Case_Servo-3" entityUid="Case_Servo*:*Predeterminado">
+<Transform>
+<Rotation>-3.8857805861880479e-15 8.479479579702588e-16 1 1 6.003047293300047e-16 3.8025138593411612e-15 -6.3814486590944842e-16 1 -8.4830936947452268e-16</Rotation>
+<Translation>-0.0044999999999997906 -0.074749999999999997 0.021500000000000002</Translation>
+</Transform>
+</Instance>
+<Instance name="Articulacion-1" uid="Articulacion-1" entityUid="Articulacion*:*Predeterminado">
+<Transform>
+<Rotation>1 3.5527136788005001e-15 0 3.5527136788005001e-15 -1 -1.1066396593419707e-16 0 1.1066396593419679e-16 -1</Rotation>
+<Translation>-0.0044999999999999277 -0.039499999999999987 0.038499999999999986</Translation>
+</Transform>
+</Instance>
+<Instance name="Case_Servo-2" uid="Case_Servo-2" entityUid="Case_Servo*:*Predeterminado">
+<Transform>
+<Rotation>-1 0 0 0 0 -1 0 -1 0</Rotation>
+<Translation>0.00024999999999999155 -0.009000000000000008 -0.021499999999999991</Translation>
+</Transform>
+</Instance>
+<Instance name="Pie-1" uid="Pie-1" entityUid="Pie*:*Predeterminado">
+<Transform>
+<Rotation>-1.0064734225348106e-15 -3.9135361618036784e-15 0.99999999999999989 -4.1563974484404298e-15 1 3.8355332908080251e-15 -1 -4.1529280014884762e-15 -1.0067592510394262e-15</Rotation>
+<Translation>-0.0049999999999995933 -0.12874999999999992 0.038750000000000069</Translation>
+</Transform>
+</Instance>
+<Instance name="Articulacion-3" uid="Articulacion-3" entityUid="Articulacion*:*Predeterminado">
+<Transform>
+<Rotation>-1 -3.8302694349567901e-15 0 -3.8302694349567901e-15 1 -1.1066396593419648e-16 0 -1.1066396593419684e-16 -1</Rotation>
+<Translation>-0.0044999999999999294 -0.039500000000000007 0.038499999999999993</Translation>
+</Transform>
+</Instance>
+<Instance name="Case_Servo-4" uid="Case_Servo-4" entityUid="Case_Servo*:*Predeterminado">
+<Transform>
+<Rotation>-3.4972025275692431e-15 3.8014284045522785e-16 -1.0000000000000002 1.0000000000000002 -4.4852052418951084e-16 -3.4972025275692431e-15 -4.4852052418951242e-16 -1 -3.8014284045522538e-16</Rotation>
+<Translation>-0.0044999999999997785 -0.074749999999999997 -0.021499999999999984</Translation>
+</Transform>
+</Instance>
+<Instance name="Articulacion-5" uid="Articulacion-5" entityUid="Articulacion*:*Predeterminado">
+<Transform>
+<Rotation>1.1326115771216879e-15 -3.9412917374193057e-15 -1 6.5281767360856705e-16 1 -3.9412917374193049e-15 1 -6.5281767360856261e-16 1.1326115771216905e-15</Rotation>
+<Translation>-0.0044999999999997143 -0.091499999999999998 0.034000000000000009</Translation>
+</Transform>
+</Instance>
+<Instance name="Pie-2" uid="Pie-2" entityUid="Pie*:*Predeterminado">
+<Transform>
+<Rotation>0 -3.6427045677341885e-15 1 3.0253577421035524e-15 1 3.6427045677341885e-15 -1 3.0253577421035528e-15 0</Rotation>
+<Translation>-0.0049999999999995794 -0.12875000000000003 -0.038749999999999993</Translation>
+</Transform>
+</Instance>
+<Instance name="Articulacion-2" uid="Articulacion-2" entityUid="Articulacion*:*Predeterminado">
+<Transform>
+<Rotation>-1 3.4972025275692431e-15 0 -3.4972025275692431e-15 -1 0 0 0 1</Rotation>
+<Translation>-0.0044999999999998999 -0.039500000000000007 -0.038499999999999993</Translation>
+</Transform>
+</Instance>
+<Instance name="Articulacion-4" uid="Articulacion-4" entityUid="Articulacion*:*Predeterminado">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.0045000000000000361 -0.039499999999999993 -0.038499999999999993</Translation>
+</Transform>
+</Instance>
+<Instance name="Articulacion-6" uid="Articulacion-6" entityUid="Articulacion*:*Predeterminado">
+<Transform>
+<Rotation>0 -3.5527136788005025e-15 -1 4.9434148968376537e-16 1 -3.5527136788005025e-15 1 -4.9434148968376557e-16 0</Rotation>
+<Translation>-0.0044999999999997091 -0.091500000000000026 -0.033999999999999982</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Coincident name="Coincidente1">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Cadera-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Case_Servo-1</Uid>
+</InstancePath>
+<Position>-0.016750000000000004 0.021000000000000008 0.0089999999999999941</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica1">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Cadera-1</Uid>
+</InstancePath>
+<Position>-0.0075000000000000136 0 0.032499999999999994</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Case_Servo-1</Uid>
+</InstancePath>
+<Position>0.0077500000000000086 0.011000000000000006 0.0089999999999999941</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concéntrica2">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Cadera-1</Uid>
+</InstancePath>
+<Position>0.0075000000000000136 0 0.032499999999999994</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Case_Servo-1</Uid>
+</InstancePath>
+<Position>-0.0072499999999999978 0.011000000000000006 0.0089999999999999941</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente2">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Cadera-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Case_Servo-2</Uid>
+</InstancePath>
+<Position>-0.016749999999999994 0.021000000000000005 -0.009000000000000008</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica3">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Cadera-1</Uid>
+</InstancePath>
+<Position>-0.0075000000000000136 0 -0.032499999999999994</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Case_Servo-2</Uid>
+</InstancePath>
+<Position>0.0077500000000000051 0.011000000000000003 0.0089999999999999941</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concéntrica4">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Cadera-1</Uid>
+</InstancePath>
+<Position>0.0075000000000000136 0 -0.032499999999999994</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Case_Servo-2</Uid>
+</InstancePath>
+<Position>-0.0072499999999999943 0.011000000000000003 0.0089999999999999941</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concéntrica5">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Case_Servo-1</Uid>
+</InstancePath>
+<Position>0.0047499999999999999 -1.0000000000010001e-06 0</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Articulacion-1</Uid>
+</InstancePath>
+<Position>0 -0.030500000000000006 -0.022001</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente3">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Case_Servo-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Articulacion-1</Uid>
+</InstancePath>
+<Position>0 -0.036000000000000004 0.016999999999999998</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente4">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Case_Servo-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Articulacion-2</Uid>
+</InstancePath>
+<Position>0 -0.035999999999999997 0.017000000000000001</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica6">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Case_Servo-2</Uid>
+</InstancePath>
+<Position>0.0047499999999999981 -1.0000000000010001e-06 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Articulacion-2</Uid>
+</InstancePath>
+<Position>0 -0.030499999999999999 -0.022000999999999993</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente5">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Articulacion-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Articulacion-3</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica7">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Articulacion-1</Uid>
+</InstancePath>
+<Position>0.0035000000000000005 -0.0050000000000000044 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Articulacion-3</Uid>
+</InstancePath>
+<Position>-0.0034999999999999996 -0.0049999999999999975 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concéntrica8">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Articulacion-1</Uid>
+</InstancePath>
+<Position>-0.0035000000000000014 -0.0050000000000000044 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Articulacion-3</Uid>
+</InstancePath>
+<Position>0.0034999999999999996 -0.0049999999999999975 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente6">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Articulacion-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Articulacion-4</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica9">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Articulacion-2</Uid>
+</InstancePath>
+<Position>0.0035000000000000005 -0.0050000000000000044 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Articulacion-4</Uid>
+</InstancePath>
+<Position>-0.0035000000000000005 -0.0049999999999999975 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concéntrica10">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Articulacion-2</Uid>
+</InstancePath>
+<Position>-0.0035000000000000005 -0.0050000000000000044 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Articulacion-4</Uid>
+</InstancePath>
+<Position>0.0035000000000000001 -0.0049999999999999975 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente7">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Articulacion-3</Uid>
+</InstancePath>
+<Position>0 -0.035999999999999997 0.016999999999999998</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Case_Servo-3</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica11">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Articulacion-3</Uid>
+</InstancePath>
+<Position>0 -0.030499999999999992 -0.022001</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Case_Servo-3</Uid>
+</InstancePath>
+<Position>0.0047500000000000042 -1.0000000000010001e-06 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente8">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Articulacion-4</Uid>
+</InstancePath>
+<Position>0 -0.03599999999999999 0.017000000000000001</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Case_Servo-4</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica12">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Articulacion-4</Uid>
+</InstancePath>
+<Position>0 -0.030499999999999999 -0.022000999999999993</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Case_Servo-4</Uid>
+</InstancePath>
+<Position>0.0047500000000000042 -9.9999999999753064e-07 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente9">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Case_Servo-3</Uid>
+</InstancePath>
+<Position>-0.016749999999999987 0.021000000000000008 0.0089999999999999959</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Articulacion-5</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica13">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Case_Servo-3</Uid>
+</InstancePath>
+<Position>0.016751000000000016 0.015999999999999997 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Articulacion-5</Uid>
+</InstancePath>
+<Position>0.0034999999999999962 -0.0050000000000000044 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concéntrica16">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Case_Servo-3</Uid>
+</InstancePath>
+<Position>0.016751000000000016 0.0090000000000000011 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Articulacion-5</Uid>
+</InstancePath>
+<Position>-0.0035000000000000031 -0.0049999999999999906 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente10">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Case_Servo-4</Uid>
+</InstancePath>
+<Position>-0.016750000000000015 0.021000000000000001 0.0089999999999999976</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Articulacion-6</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica17">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Case_Servo-4</Uid>
+</InstancePath>
+<Position>0.016751000000000002 0.016000000000000004 0</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Articulacion-6</Uid>
+</InstancePath>
+<Position>-0.0035000000000000031 -0.0050000000000000044 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concéntrica18">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Case_Servo-4</Uid>
+</InstancePath>
+<Position>0.016751000000000002 0.0090000000000000011 0</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Articulacion-6</Uid>
+</InstancePath>
+<Position>0.0034999999999999962 -0.0050000000000000044 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente11">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Articulacion-5</Uid>
+</InstancePath>
+<Position>0 -0.03599999999999999 0.017000000000000001</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Pie-1</Uid>
+</InstancePath>
+<Position>0.018999999999999993 0.013499999999999998 -0.01649999999999999</Position>
+<Axis>-1.8288829966005322e-16 0 -0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica20">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Articulacion-5</Uid>
+</InstancePath>
+<Position>0 -0.030499999999999999 -0.022001</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Pie-1</Uid>
+</InstancePath>
+<Position>0.0047499999999999903 0.0067499999999999921 -0.03150099999999998</Position>
+<Axis>0 0 0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente12">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Articulacion-6</Uid>
+</InstancePath>
+<Position>0 -0.035999999999999976 0.017000000000000001</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Pie-2</Uid>
+</InstancePath>
+<Position>0.018999999999999996 0.013499999999999984 -0.016499999999999994</Position>
+<Axis>-1.8260247115545339e-16 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica21">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Articulacion-6</Uid>
+</InstancePath>
+<Position>0 -0.030499999999999985 -0.022000999999999996</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Pie-2</Uid>
+</InstancePath>
+<Position>-0.0047499999999999973 0.0067499999999999921 -0.031500999999999994</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+</Assemblies>
+<Parts>
+<Part name="Articulacion" uid="Articulacion*:*Predeterminado" version="134">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Articulacion.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.010305672532137584</Mass>
+<CenterOfMass>0 -0.01205135736962136 0.00086002435723913696</CenterOfMass>
+<Inertia>4.1548176790534849e-06 3.125556160961005e-06 1.4320543665849276e-06 4.9173329304351169e-08 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Articulacion_Predeterminado_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Cadera" uid="Cadera*:*Predeterminado" version="125">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Cadera.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.018537440661338105</Mass>
+<CenterOfMass>0 0.0015085308343020225 0</CenterOfMass>
+<Inertia>1.631661460477008e-05 2.4707680358393212e-05 8.4478350695985743e-06 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Cadera_Predeterminado_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Case_Servo" uid="Case_Servo*:*Predeterminado" version="241">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Case_Servo.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0096616029162940979</Mass>
+<CenterOfMass>-0.00065848521228086313 0.0084547111039808952 3.5878877958923478e-10</CenterOfMass>
+<Inertia>7.5825340021749885e-07 1.5145868646477492e-06 1.5457337002560326e-06 -2.7840153248076537e-14 3.7487924800380466e-14 1.0423233888843066e-08</Inertia>
+</MassProperties>
+<GeometryFile name="Case_Servo_Predeterminado_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Pie" uid="Pie*:*Predeterminado" version="195">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Pie.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.021340484742336338</Mass>
+<CenterOfMass>0 -0.00032926261727569966 -0.0036987603618138382</CenterOfMass>
+<Inertia>5.8272901727511154e-06 9.7603073195987358e-06 4.8111015437081473e-06 2.2881945700029887e-07 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Pie_Predeterminado_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>
