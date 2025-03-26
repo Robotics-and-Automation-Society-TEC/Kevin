@@ -27,8 +27,8 @@ Contiene las **versiones finales** de los archivos.
 <table>
   <tbody>
     <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/valeartavia"><img src="https://avatars.githubusercontent.com/u/162747748?v=4" width="100px;" alt="Valeria Artavia"/><br /><sub><b>Valeria Artavia</b></sub></a><br /><a href="#projectManagement-valeartavia" title="Project Management">📆</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Ztrake1009"><img src="https://avatars.githubusercontent.com/u/139945063?s=400&u=74787cb33a4783373f82995dfb562145084716b1&v=4" width="100px;" alt="Gustavo Varela"/><br /><sub><b>Gustavo Varela</b></sub></a><br /><a href="#projectManagement-Ztrake1009" title="Project Management">📆</a></td>
-    <td align="center" valign="top" width="14.28%"><a href="https://github.com/Ztrake1009"><img src="https://avatars.githubusercontent.com/u/139945063?s=400&u=74787cb33a4783373f82995dfb562145084716b1&v=4" width="100px;" alt="Prueba Varela"/><br /><sub><b>Gustavo Varela</b></sub></a><br /><a href="#projectManagement-Ztrake1009" title="Project Management">📆</a></td>
     </tr>
   </tbody>
 </table>
